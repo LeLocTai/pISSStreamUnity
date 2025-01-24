@@ -17,6 +17,9 @@ Display how full the International Space Station's urine tank is on your toolbar
 2. Install package from git URL...
 3. Enter this repo url: https://github.com/LeLocTai/pISSStreamUnity.git#master
 
+## Known issues
+- Emojis don't display on Unity < 6
+
 ## Credit
 
 - The idea comes from: https://github.com/Jaennaet/pISSStream
