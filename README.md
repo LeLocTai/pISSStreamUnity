@@ -15,7 +15,7 @@ Display how full the International Space Station's urine tank is on your toolbar
 ## Installation
 1. Open the Package Manager window
 2. Install package from git URL...
-3. Enter this repo url: https://github.com/LeLocTai/pISSStreamUnity#master
+3. Enter this repo url: https://github.com/LeLocTai/pISSStreamUnity.git#master
 
 ## Credit
 
